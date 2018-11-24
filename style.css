@@ -1,0 +1,54 @@
+.reveal .h1 {
+  color: #373fff;
+}
+
+.reveal .slides > section {
+}
+
+.reveal img[alt="1903"] {
+  width: 80%;
+  border: none;
+  background: none;
+}
+
+.reveal img[alt="spoken"] {
+  width: 80%;
+  border: none;
+  background: none;
+}
+
+.reveal img[alt="dialects"] {
+  width: 80%;
+  border: none;
+  background: none;
+}
+
+.reveal img[alt="bulba"] {
+  width: 80%;
+  border: none;
+  background: none;
+}
+
+.reveal img[alt="lacinka_sign"] {
+  width: 80%;
+  border: none;
+  background: none;
+}
+
+.reveal img[alt="lacinka_tg"] {
+  width: 35%;
+  border: none;
+  background: none;
+}
+
+.reveal img[alt="kitab"] {
+  width: 60%;
+  border: none;
+  background: none;
+}
+
+.reveal img[alt="biel_school"] {
+  width: 80%;
+  border: none;
+  background: none;
+}
